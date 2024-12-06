@@ -1,0 +1,22 @@
+# Python-related files and folders to ignore
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Environment variables file (if any)
+.env
+
+# IDE/editor-specific files and folders (optional)
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files (optional)
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files (optional)
+*.log
+*.tmp
